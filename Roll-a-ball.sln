@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{37E8C883-93BC-7A4D-09B1-617DCC1D5088}") = "Roll-a-ball", "Assembly-CSharp.csproj", "{12AD755F-E738-FA7E-1C34-C5745A6D1C71}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll-a-ball", "Assembly-CSharp.csproj", "{12AD755F-E738-FA7E-1C34-C5745A6D1C71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,5 +35,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
